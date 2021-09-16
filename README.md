@@ -1,6 +1,6 @@
 ### Hello! I'm Sumit
 
-I'm a fullstack developer having primary expertise in Microsoft ASP.net Core,C#, Anuglar 10, React
+I'm a fullstack developer having primary expertise in Microsoft ASP.NET Core, C#,JavaScript,Anuglar 10,React,HTML 5,Bootstrap, MS SQL Server. 
 
 <br />
 
